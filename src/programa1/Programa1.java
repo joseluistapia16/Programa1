@@ -13,8 +13,9 @@ package programa1;
 public class Programa1 {
 
     /**
-     * @param args the command line arguments
+     *
      */
+    //hola que fue
     public static void main(String[] args) {
         // TODO code application logic here
         Formulario forma = new Formulario(new javax.swing.JFrame(), true);
